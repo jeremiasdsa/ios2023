@@ -46,7 +46,7 @@ struct MyView: View {
                     .font(.subheadline)
                     .foregroundColor(.green)
             }
-        }.padding()
+        }
     }
 }
 
